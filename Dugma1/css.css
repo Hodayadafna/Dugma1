@@ -24,19 +24,19 @@ img{
 #top{
     display: flex:1;
     flex-direction: column;
-    background-color: aqua;
+    background-color: #2233FF;
 }
 #right{
      display: flex;
      flex:1;
     flex-direction: column;
-    background-color: red;
+    background-color: #1166FF;
 }
 #master{
     
     display: flex;
      flex: 1;
-    background-color:red;
+    background-color:#0099FF;
     
 }
 
@@ -44,7 +44,7 @@ img{
      display: flex;
     flex:1;
     flex-direction: column;
-    background-color: ;
+    background-color:#0099FF ;
     align-items: center;
     justify-content: center;
 }
@@ -52,5 +52,5 @@ img{
 p{
      text-align: center;
      font-size: 30px;
-     background-color: aqua;
+     background-color: #2233FF;
 }
